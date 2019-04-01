@@ -1,0 +1,13 @@
+.tree-item {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.selected {
+  border-color: red;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+}
